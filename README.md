@@ -1,9 +1,10 @@
 - 👋 Hi, My name is Olawale Asher
-- 👀 I’m interested in CLoud Computing and System Automation
-- 🌱 I’m currently working on getting my Az 400 Azure Devops.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in CLoud Computing and, Automation System Automation
+- 🌱 I’m currently working on getting <<Anything that picks my intrest>>
 - 📫 How to reach me via 
--   email Olawaleasher@gmail.com
+-     email : Olawaleasherprotonmail.ch
+      Twitter : @Ashherr_01
+      Linkden : https://www.linkedin.com/in/asher-ogunleye-6aa5b0261/
 -       
 
 <!---
